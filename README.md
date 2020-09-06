@@ -1,5 +1,7 @@
 # Applied-Data-Science-Artificial-Intellegence
 
+(*)Research Method:https://www.researchgate.net/publication/344141650_Market_Customer_Segmentation_Using_Unsupervised_Machine_Learning_techniques
+
 (*) Kaggle ID: https://www.kaggle.com/sohelranaccselab
 
 (*) Advance Artificial intelligence (AI) Notebook :https://www.kaggle.com/sohelranaccselab/car-price-prediction-using-advance-ai?scriptVersionId=41944016
